@@ -1,0 +1,71 @@
+html {
+    font-family: arial;
+}
+
+header{
+    background-color: #333;
+    font-size: 32px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    padding: 15px;
+}
+
+.links {
+    margin: 2px auto;
+    text-align: center;
+}
+
+.greyBox {
+    background-color: #CCC;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    margin: 0 3px;
+    display: inline-block;
+}
+
+.container {
+    padding: 10px 20px;
+    text-align: center;
+
+}
+
+.photoCount {
+    background-color: aquamarine;
+    text-align: left;
+    padding: 10px;
+    font-size: 24px;
+}
+
+.photoCountNumber {
+    border-bottom: 2px solid gold;
+    font-weight: bold;
+
+}
+
+.photo {
+    width: 30%;
+    margin: 10px auto;
+    display: inline-block;
+}
+
+img {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.photoOptions {
+    background-color: gold;
+    text-align: center;
+    margin: 0;
+    padding: 5px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
